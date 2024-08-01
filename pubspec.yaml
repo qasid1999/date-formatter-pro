@@ -1,6 +1,7 @@
 name: date_formatter_pro
 description: "Flutter Project to format date in different style"
 version: 0.0.1
+repository: https://github.com/qasid1999/date-formatter-pro
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
