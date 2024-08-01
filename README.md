@@ -12,7 +12,7 @@ Getting started
 To start using the DateFormatter package, add it to your pubspec.yaml:
 
 ## dependencies:
-date_formatter: ^1.0.0
+date_formatter: ^0.0.1
 
 ## Usage
 Import the package and use the provided extensions to format dates:
