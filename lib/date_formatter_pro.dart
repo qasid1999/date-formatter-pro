@@ -3,6 +3,7 @@ library date_formatter;
 extension DateFormatterPro on DateTime {
   // Format: MM/dd/yyyy -> 12/23/2024
   String toMMDDYYYY() {
+
     final month = this.month.toString().padLeft(2, '0');
     final day = this.day.toString().padLeft(2, '0');
     final year = this.year.toString();
