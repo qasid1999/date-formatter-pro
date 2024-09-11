@@ -1,6 +1,6 @@
 name: date_formatter_pro
 description: "A Flutter package that provides flexible date formatting in various styles. Ideal for developers needing custom or localized date formats in their Flutter apps."
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/qasid1999/date-formatter-pro
 
 environment:

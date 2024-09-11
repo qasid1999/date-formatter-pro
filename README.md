@@ -33,7 +33,7 @@ print(date.toYYYYMMDD()); // Output: 2024-07-12
 For more information, visit the documentation.
 
 ## Contributing
-Contributions are welcome! Please see the contributing guidelines for more information.
+Contributions are welcome! Please see the [contributing guidelines](https://github.com/your-username/your-repo/blob/main/CONTRIBUTING.md) for more information.
 
 ## Issues
-If you encounter any issues, please file them here.
+If you encounter any issues, please file them [here](https://github.com/qasid1999/date-formatter-pro/issues).
