@@ -1,6 +1,6 @@
 name: date_formatter_pro
-description: "Flutter Project to format date in different style"
-version: 0.0.1
+description: "A Flutter package that provides flexible date formatting in various styles. Ideal for developers needing custom or localized date formats in their Flutter apps."
+version: 0.0.2
 repository: https://github.com/qasid1999/date-formatter-pro
 
 environment:
@@ -17,4 +17,6 @@ dev_dependencies:
   flutter_lints: ^3.0.0
 
 flutter:
+# Assets, fonts, etc. can be added here if needed
 
+example: example/ # This points to the example directory containing a full Flutter project
